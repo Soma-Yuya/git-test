@@ -1,3 +1,5 @@
 print("Gitコマンド一覧")
 print("git init")
 print("git status")
+print("git add")
+print("git commit")
